@@ -1,0 +1,1 @@
+INSERT INTO burgers (burger_type, devoured) VALUES ("Chicken bacon", 1), ("Big mac", 1), ("Black bean", 1)

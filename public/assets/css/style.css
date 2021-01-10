@@ -1,0 +1,50 @@
+html {
+    background-color: #FAEBD7;
+}
+
+h1 {
+    text-align: center;
+    color: #8B0000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.burger-img {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    height: 20vh;
+    width: 20vh;
+}
+
+.burger-list {
+    text-align: center;
+    list-style: none;
+}
+
+.individual-burger {
+    padding-bottom: 1em;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.form-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+button {
+    border-radius: 20%;
+    background-color: #ADD8E6;
+    height: 2em;
+    width: 7em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+
+
+

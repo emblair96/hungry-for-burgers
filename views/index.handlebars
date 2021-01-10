@@ -1,0 +1,25 @@
+<div class="">
+    <div class="burger-img">
+        <img src="https://fscomps.fotosearch.com/compc/CSP/CSP590/retro-1950s-diner-hamburger-circle-clipart__k36467903.jpg">
+    </div>
+    <h1>Eat-Da-Burger!</h1>
+    
+    <ul class="burger-list">
+        {{#each burgers}}
+            {{#if displayed}}
+            <li class="individual-burger">
+                {{burger_type}}
+                <button class="delete-burger" data-id ="{{id}}">EAT ME!</button>
+            </li>
+            {{/if}}
+        {{/each}}
+    </ul>
+    <div class="form-container">
+        <form id="new-burger-form">
+            <input type="text" name="burger" id="burger-type"></input>
+
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+    
+</div>
