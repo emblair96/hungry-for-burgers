@@ -1,7 +1,7 @@
 # Hungry for Burgers
 
 ## Description
-A simple, quirky app that was built to help solidify my understanding of full stack functionality.  Enter the name of a tasty burger you'd like to eat and remove it from your delicious list once it has been devoured!  View the deployed version of the app on Heroku [here](https://hungry-for-burgers.herokuapp.com/).
+A simple, quirky app that was built to help solidify my understanding of full stack functionality.  Enter the name of a tasty burger you'd like to eat and remove it from your delicious list once it has been devoured!  Check out the deployed version of the app on Heroku [here](https://hungry-for-burgers.herokuapp.com/).
 
 ## Technologies
 * HTML
